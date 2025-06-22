@@ -3,7 +3,6 @@ package principal;
 /**
  * Escribe un programa que muestre tu horario de clase.
  */
-
 public class S01Ejercicio04 {
 
     public static void main(String[] args) {
