@@ -8,10 +8,10 @@ public class S01Ejercicio08 {
 
     public static void main(String[] args) {
         System.out.printf("%s%s\n", "\u001B[34m", "*********");
-        System.out.printf("%s%s\n", "\033[33m", " *     *");
-        System.out.printf("%s%s\n", "\033[32m", "  *   *");
-        System.out.printf("%s%s\n", "\033[31m", "   * *");
-        System.out.printf("%s%s\n", "\033[30m", "    *");
+        System.out.printf("%s%s\n", "\u001B[33m", " *     *");
+        System.out.printf("%s%s\n", "\u001B[32m", "  *   *");
+        System.out.printf("%s%s\n", "\u001B[31m", "   * *");
+        System.out.printf("%s%s\n", "\u001B[30m", "    *");
 
     } // Fin main
 
