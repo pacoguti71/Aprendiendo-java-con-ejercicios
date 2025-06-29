@@ -7,7 +7,7 @@ public class S01Ejercicio01 {
 
     public static void main(String[] args) {
 
-        System.out.println("Francisco");
+        System.out.println("Francisco Gutiérrez Ruiz");
 
     } // Fin main
 

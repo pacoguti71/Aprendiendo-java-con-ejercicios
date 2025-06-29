@@ -6,7 +6,6 @@ package principal;
 public class S01Ejercicio04 {
 
     public static void main(String[] args) {
-
         System.out.printf("%s\t%s\t%s\t%s\t%s\n", "Lunes", "Martes", "Miérc.", "Jueves", "Viernes");
         System.out.printf("%s\t%s\t%s\t%s\t%s\n", "======", "======", "======", "======", "======");
         System.out.printf("%s\t%s\t%s\t%s\t%s\n", "PROG", "PROG", "PROG", "PROG ", "SIN");

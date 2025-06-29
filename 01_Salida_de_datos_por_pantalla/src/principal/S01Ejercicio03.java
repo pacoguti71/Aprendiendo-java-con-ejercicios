@@ -8,6 +8,7 @@ package principal;
 public class S01Ejercicio03 {
 
     public static void main(String[] args) {
+
         System.out.printf("%-10s %s\n", "computer", "ordenador");
         System.out.printf("%-10s %s\n", "student", "alumno");
         System.out.printf("%-10s %s\n", "cat", "gato");
@@ -18,7 +19,6 @@ public class S01Ejercicio03 {
         System.out.printf("%-10s %s\n", "green", "verde");
         System.out.printf("%-10s %s\n", "book", "libro");
         System.out.printf("%-10s %s\n", "pyramid", "pirámide");
-
     } // Fin main
 
 } // Fin class
