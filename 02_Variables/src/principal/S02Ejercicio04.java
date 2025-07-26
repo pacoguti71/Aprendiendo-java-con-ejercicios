@@ -9,9 +9,11 @@ public class S02Ejercicio04 {
     public static void main(String[] args) {
 
         double tipoConversion = 166.386;
-        int cantPesetas = 1000;
+        double cantEuros = 10.56;
 
-        System.out.printf("%d pesetas son %.2f euros\n", cantPesetas, cantPesetas / tipoConversion);
+        double resultado=cantEuros*tipoConversion;
+
+        System.out.printf("%.2f euros son %.2f pesetas\n", cantEuros, resultado);
 
     } // Fin main
 
