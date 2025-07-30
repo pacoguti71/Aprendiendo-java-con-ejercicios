@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 /**
  * Realiza un programa que calcule el tiempo que tardará en caer un objeto desde
- * una altura h. Aplica la fórmula t =√(2ℎ/g)
+ * una altura h. Aplica la fórmula t =√(2ℎ/g) siendo g = 9:81m/s2
+ *
  */
 public class S04Ejercicio06 {
 
