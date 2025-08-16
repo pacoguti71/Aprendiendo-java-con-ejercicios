@@ -1,5 +1,7 @@
 package principal;
 
+import java.util.Scanner;
+
 /**
  * Vamos a ampliar uno de los ejercicios de la relación anterior para considerar
  * las horas extras. Escribe un programa que calcule el salario semanal de un
@@ -8,8 +10,6 @@ package principal;
  * euros la hora.
  *
  */
-import java.util.Scanner;
-
 public class S04Ejercicio04 {
 
     public static void main(String[] args) {
