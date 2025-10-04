@@ -14,6 +14,6 @@ public class S01Ejercicio04 {
         System.out.printf("%s\t%s\t%s\t%s\t%s\n", "FOL", "SIN", "SIN", "LM", "BDATO");
         System.out.printf("%s\t%s\t%s\t%s\t%s\n", "FOL", "BDATO", "ED", "BDATO", "ED");
         System.out.printf("%s\t%s\t%s\t%s\t%s\n", "FOL", "BDATO", "ED", "BDATO", "ED");
-    } // Fin main
 
+    } // Fin main
 } // Fin class
